@@ -58,3 +58,5 @@ table tr:last-child td{
   <tbody id="table_body"></tbody>
 </table>
 ```
+
+src from <a href="https://stackoverflow.com/questions/60791890/how-can-i-render-a-html-table-from-a-json-object">this</>.
